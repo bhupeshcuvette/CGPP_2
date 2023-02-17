@@ -1,0 +1,90 @@
+.container{
+    position: absolute;
+    width: 1440px;
+    height: 592px;
+    left: 0px;
+    top: -1px;
+    background : #F0FFFF;
+
+}
+
+.heading-counter{
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 476px;
+    top: 89px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 40px;
+    color: #484848;
+
+}
+
+.count-heading{
+    position: absolute;
+    width: 95px;
+    height: 71px;
+    left: 506px;
+    top: 195px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    text-align:center;
+    color: #484848;
+
+}
+
+.button-subtract{
+    position: absolute;
+    width: 195px;
+    height: 71px;
+    left: 276px;
+    top: 320px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    color: #484848;
+
+
+}
+
+.button-add{
+    position: absolute;
+    width: 195px;
+    height: 71px;
+    left: 816px;
+    top: 320px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    color: #484848;
+
+}
+
+.button-reset{
+    position: absolute;
+    width: 195px;
+    height: 71px;
+    left: 545px;
+    top: 320px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 20px;
+    color: #484848;
+
+}
+
+.counter-count{
+    position: absolute;
+    width: 95px;
+    height: 71px;
+    left: 576px;
+    top: 210px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-size: 30px;
+    text-align:center;
+    color: #484848;
+    
+}
